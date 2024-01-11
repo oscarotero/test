@@ -1,7 +1,7 @@
 ---
 title: Hello world 2!
-summary: ''
+summary: Required summary
 draft: false
 show_toc: false
 ---
-Testing
+Testing **content** 
