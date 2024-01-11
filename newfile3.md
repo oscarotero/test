@@ -5,6 +5,6 @@ tags:
   - Tag 1
   - Tag 2
 draft: true
-show_toc: false
+show_toc: true
 ---
 # Hello world
