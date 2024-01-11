@@ -7,9 +7,9 @@ tags:
 draft: true
 show_toc: true
 authors:
-  - name: First
-    email: first@example.com
   - name: Second
     email: second@example.com
+  - name: First
+    email: first@example.com
 ---
 # Hello world
