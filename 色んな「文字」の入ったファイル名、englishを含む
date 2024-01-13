@@ -21,3 +21,5 @@ site.use(sitemap({
   sort: "lastmod=desc",
 }));
 ```
+
+![芝犬](https://lume-cms-demo.deno.dev/files/uploads/file/img_5513.jpeg)
