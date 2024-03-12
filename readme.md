@@ -1,8 +1,10 @@
 ---
 title: demo edit
-summary: Required content
+summary: 'Required content '
 draft: false
 show_toc: false
 image: /uploads/img_5513.jpeg
+authors: []
+tags: []
 ---
-Content of demo
+Content of demo file
