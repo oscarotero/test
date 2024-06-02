@@ -9,5 +9,6 @@ tags:
   - feedback
 draft: false
 show_toc: false
+blocks: "<!-- wp:paragraph -->\r\n<p>this is a paragraph</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul><!-- wp:list-item -->\r\n<li>First element</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>Second element</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->"
 ---
 Wow. This is great.
