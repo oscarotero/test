@@ -18,5 +18,3 @@ A Quick Look at Lit
 This gives us an idea of how components are constructed. We just want to pick out the basic bits, because this is what Shoelace is built on. We’ll just look at the code through the playground here.
 
 All we want to do is make a rating button, which takes a thumbs up (and goes green) or thumbs down (red) and changes the rating accordingly.
-
-
