@@ -1,0 +1,22 @@
+---
+title: 'The Pros and Cons of Web Components, Via Lit and Shoelace'
+summary: >-
+  If you are working in or leading a larger web implementation team, make sure
+  you understand the possible benefits of a web component library.
+image: ''
+tags:
+  - 'Web development '
+draft: false
+show_toc: false
+---
+While developers enjoy working with components in framework libraries, web components are gaining more interest because they work with HTML and CSS and reduce the need for JavaScript. But they also offer the ability to write custom components, enabling larger internal software estates to keep more control of the look and feel on their pages. After our recent story on Shoelace (soon to be re-named Web Awesome) I thought I would take that library for a spin.
+
+Before we look at Shoelace, let’s take a quick look at the level just below it, the Google web component library called Lit.
+
+A Quick Look at Lit
+
+This gives us an idea of how components are constructed. We just want to pick out the basic bits, because this is what Shoelace is built on. We’ll just look at the code through the playground here.
+
+All we want to do is make a rating button, which takes a thumbs up (and goes green) or thumbs down (red) and changes the rating accordingly.
+
+
