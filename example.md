@@ -1,9 +1,11 @@
 ---
-title: Example
-summary: Example page.
+title: Examplegghhh
+summary: Example page.vvvbb
 image: ''
-tags: []
-draft: false
+tags:
+  - Gggh
+  - Oke
+draft: true
 show_toc: false
 ---
 # dnn
