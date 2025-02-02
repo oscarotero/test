@@ -3,7 +3,7 @@ title: Brandon was here
 summary: asdfasdfa
 image: ''
 tags: []
-draft: true
+draft: false
 show_toc: false
 ---
 asdfadfasf
