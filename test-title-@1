@@ -2,8 +2,9 @@
 title: test
 summary: inu
 image: /uploads/400x400.png
-tags: []
-draft: false
+tags:
+  - something important
+draft: true
 show_toc: true
 ---
 text
