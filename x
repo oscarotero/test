@@ -3,7 +3,7 @@ title: test
 summary: ajai
 image: ''
 tags: []
-draft: true
+draft: false
 show_toc: true
 ---
 
