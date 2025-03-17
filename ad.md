@@ -12,3 +12,4 @@ adasd
 
 ## Hello
 
+![Image](/uploads/KirbyOnScreenAppearanceSSBU.gif)
