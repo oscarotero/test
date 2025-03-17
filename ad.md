@@ -1,7 +1,7 @@
 ---
 title: ad
 summary: ad
-image: ''
+image: /uploads/KirbyOnScreenAppearanceSSBU.gif
 tags:
   - ad
   - asd
