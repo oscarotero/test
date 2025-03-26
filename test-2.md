@@ -1,5 +1,4 @@
 ---
-title: ad
 summary: ad
 image: /uploads/KirbyOnScreenAppearanceSSBU.gif
 tags:
