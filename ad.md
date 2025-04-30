@@ -5,7 +5,7 @@ image: /uploads/KirbyOnScreenAppearanceSSBU.gif
 tags:
   - ad
   - asd
-draft: true
+draft: false
 show_toc: true
 ---
 # Heading 1
