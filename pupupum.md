@@ -4,6 +4,8 @@ summary: 'Question about lume, cms, deploy'
 image: ''
 tags:
   - test
+  - question
+  - deployment
 draft: false
 show_toc: false
 ---
