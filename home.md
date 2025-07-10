@@ -2,7 +2,7 @@
 title: AAAA
 summary: |
   Summary Part 2
-image: ''
+image: 400x400.png
 tags:
   - CRM
   - CMS
